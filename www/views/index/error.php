@@ -1,0 +1,1 @@
+<center><img src="res/img/error.png" alt="Something went wrong"></center>

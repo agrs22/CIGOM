@@ -8,7 +8,9 @@ This app incloudes a docker file to build an image with
 A ver simple api is inclouded with the app
 
 To list available data files 
-<docker host>:<port>/api.php?v=1&mtd=listfiles
+
+\<docker host>:\<port>/api.php?v=1&mtd=listfiles
   
 To view a files datapoints as an array 
-<docker host>:<port>/api.php?v=1&mtd=data&file=<filename>
+
+\<docker host>:\<port>/api.php?v=1&mtd=data&file=\<filename>
